@@ -16,8 +16,10 @@ The complete list of my publications can be found on [inspirehep.net](https://in
 Don't hesitate to contact me if you are interested in a Research Fellowship of the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) (such as the [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship)) hosted by me at Ohio University.
 
 My current research group consists of:
-* [Yoon Gyu Lee](https://www.ohio.edu/cas/yl518521)
-* [Joshua Maldonado](https://www.ohio.edu/cas/jm998521) (STREAMLINE collaboration)
-* [Abhinav Giri](https://www.ohio.edu/cas/ag086822) (co-advised with [Charlotte Elster](https://www.ohio.edu/cas/elster))
-* [Grace Eichler](https://www.linkedin.com/in/grace-eichler-b87a772b4)
-* [Unish Gautam](https://www.ohio.edu/cas/ug783023)
+* [Yoon Gyu Lee](https://www.ohio.edu/cas/yl518521) (grad student)
+* [Abhinav Giri](https://www.ohio.edu/cas/ag086822) (grad student, STREAMLINE collaboration)
+* [Grace Eichler](https://www.linkedin.com/in/grace-eichler-b87a772b4) (undergrad student)
+
+Previous students:
+* [Joshua Maldonado](https://www.ohio.edu/cas/jm998521) (M.S. thesis 2024, summer 2023-2024, STREAMLINE collaboration)
+* [Unish Gautam](https://www.ohio.edu/cas/ug783023) (grad student, summer 2024)
